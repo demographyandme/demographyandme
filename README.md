@@ -2,7 +2,7 @@
 
 **Demographer · Population Aging & Health, Economic and Mathematical Demography, Migration**
 
-Populations are aging faster than institutions can adapt. That gap — between demographic realities and policy design — drives my research on mortality, migration, population aging and health, and the sustainability of public policies.
+My research is in formal demography: mortality, life expectancy, and population aging. I study cross-national variation in these outcomes using decomposition and harmonization of vital statistics, census microdata, and international population databases.
 
 <!-- 🌐 **Website:** [www.demographyandme.com](https://www.demographyandme.com) -->
 
