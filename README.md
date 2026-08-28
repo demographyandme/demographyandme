@@ -18,7 +18,7 @@ Between 1960 and 1980, rural Brazil lost 26 million residents to its cities. Thi
 
 *Published in Revista Brasileira de Estudos de População (2024)*
 
-### [COVID-19 vaccination & age reporting, Brazil](https://demographyandme.github.io/covid-19-datasus-vacina/)
+### [COVID-19 vaccination & age reporting, Brazil](https://demographyandme.github.io/covid-19-datasus-vaccine/)
 
 Brazil administered 388 million COVID-19 vaccine doses. This study examines the quality of age reporting in the national vaccination database—comparing 387 million records with census data, demographic projections, and high-quality data from Sweden.
 
