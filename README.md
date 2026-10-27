@@ -49,11 +49,15 @@ Cohort-component Lexis simulation from observed HMD/HFD country profiles — sty
 
 ### [Explaining the differences in life expectancies](https://demographyandme.github.io/life-expectancy-differentials/)
 
-Arriaga's decomposition of a difference in life expectancy into the contribution of each single year of age, drawn as two replacement fronts converging from opposite ends of the age axis.
+Arriaga's decomposition of a difference in life expectancy into the contribution of each single year of age, drawn as mortality replaced age by age from both ends of the age axis.
 
 ### [Which causes account for a difference in life expectancy](https://demographyandme.github.io/life-expectancy-causes/)
 
-Arriaga's decomposition of a difference in both-sex period life expectancy, constructed here from the Human Cause-of-death Database (HCD) reconstructed short list, into sixteen cause groups: each bar is that row's total on a nineteen-band heatmap.
+Arriaga's decomposition of a difference in both-sex period life expectancy, constructed here from the Human Cause-of-Death Data Series (HCD) reconstructed short list, into sixteen cause groups: each bar is that row's total on a nineteen-band heatmap.
+
+### [WPP total fertility, edition by edition](https://demographyandme.github.io/wpp-fertility-revisions/)
+
+The period total fertility rate of each country or area as the editions of the UN's World Population Prospects, 1990 to 2024, estimated it and, in the medium variant, projected it.
 
 ---
 
