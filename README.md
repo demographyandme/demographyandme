@@ -53,7 +53,7 @@ Arriaga's decomposition of a difference in life expectancy into the contribution
 
 ### [Which causes account for a difference in life expectancy](https://demographyandme.github.io/life-expectancy-causes/)
 
-Arriaga's decomposition of a difference in both-sex period life expectancy, constructed here from the Human Cause-of-Death Data Series (HCD) reconstructed short list, into sixteen cause groups: each bar is that row's total on a nineteen-band heatmap.
+Arriaga's age decomposition of a difference in both-sex period life expectancy, constructed here from the Human Cause-of-Death Data Series (HCD) reconstructed short list, with each age contribution split across sixteen cause groups: each bar is that row's total on a nineteen-band heatmap.
 
 ### [WPP total fertility, edition by edition](https://demographyandme.github.io/wpp-fertility-revisions/)
 
